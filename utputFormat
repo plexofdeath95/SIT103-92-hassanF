@@ -1,0 +1,20 @@
+HTTP/1.1 404 Not Found
+X-Powered-By: Express
+Content-Security-Policy: default-src 'none'
+X-Content-Type-Options: nosniff
+Content-Type: text/html; charset=utf-8
+Content-Length: 144
+Date: Sun, 24 Sep 2023 10:17:25 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Cannot PUT /user/</pre>
+</body>
+</html>
